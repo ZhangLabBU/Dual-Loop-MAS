@@ -136,4 +136,4 @@ If you find this work useful, please cite:
 
 ## Contact
 
-For questions, please contact the corresponding authors Wenbo Wang (wbwang@bupt.edu.cn) and Xing Zhang (zhangx@ieee.org), or the first author Zheyan Qu (zheyanqu@bupt.edu.cn).
+For questions, please contact the first author Zheyan Qu (zheyanqu@bupt.edu.cn) and corresponding author Xing Zhang (zhangx@ieee.org).
